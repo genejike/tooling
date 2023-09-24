@@ -70,4 +70,4 @@ Default web root:
 ```
 /usr/share/nginx/html
 ```
-if you need access to the GCP
+if you need access holla
